@@ -1,2 +1,1 @@
-# HotelBooking
-# Web
+# HotelBooking/Web
